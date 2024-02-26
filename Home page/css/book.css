@@ -1,0 +1,17 @@
+.blok1{
+	position: absolute;
+	top: 80px;
+	left: 243px;
+	width: 1120px;
+	height: 700px;
+	background-color: lightgoldenrodyellow;
+}
+
+.blok2{
+	position: absolute;
+	top: 70px;
+	left: 2000px;
+	width: 1120px;
+	height: 700px;
+	background-color: red;
+}
